@@ -39,7 +39,7 @@ Sou formada em técnico em informática e sou ingressante no ensino superior pel
 
 
 ## 📫 
-📧 **Email**: [lohanamaria@email.com](mailto:decarvalholohana@email.com)  
+📧 **Email**: [decarvalholohana@email.com](mailto:decarvalholohana@email.com)  
 
 ---
 
