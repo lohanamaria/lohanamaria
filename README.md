@@ -27,8 +27,6 @@ Atualmente, tenho habilidades sólidas em **desenvolvimento web (fullstack)** e 
 
 ![Estatísticas do GitHub da Lohana Maria](https://github-readme-stats.vercel.app/api?username=lohanamaria&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 
----
-
 ## 💖 Linguagens que mais uso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohanamaria&layout=compact&theme=radical)
